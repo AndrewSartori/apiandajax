@@ -1,0 +1,16 @@
+{
+  "name": "apis_and_spas",
+  "version": "1.0.0",
+  "description": "***Preparing for REACT*** * Build a JSON API     - Back-End JSON API: Express * Build a Single Page Application (SPA) that consumes my own JSON API     - Front-End Technology: React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5"
+  }
+}
