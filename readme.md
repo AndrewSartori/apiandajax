@@ -1,6 +1,6 @@
-#Single Page Application: _To-Do List_#
+# Single Page Application: _To-Do List_ #
 
-####Techologies/Concepts Utilized####
+#### Techologies/Concepts Utilized ####
 * RESTful API
 * Node.js
 * Express.js
